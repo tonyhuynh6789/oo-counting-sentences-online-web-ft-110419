@@ -20,4 +20,7 @@ class String
   new_array.reject {|string| string.empty?}
   return new_array.length
   end
+  
+  
+  
 end   
